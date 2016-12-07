@@ -1,0 +1,205 @@
+
+.main-background {
+	height: 100%;
+	background-color: #1D1E1F;
+}
+
+.sub-background {
+	height: 100%;
+}
+
+.header {
+	background-color: black;
+	margin : 0px;
+	padding: 0px;
+}
+
+.headerText {
+	color: #BECED4;
+	text-align: center;
+	float:left;
+}
+
+.navigation-header {
+	margin : 0px;
+	padding: 0px;
+}
+
+.bodyImages {
+	width : 100%;
+	margin : 0px;
+	margin-top: 10px;
+	padding : 0px;
+}
+
+.sideContents {
+	text-align: right;
+	margin-top: 2%;
+}
+
+.form1 {
+	padding-right : 0px;
+	
+}
+
+.form2 {
+	padding-left: 0px;
+
+}
+
+.leftPane {
+	padding-left : 0px;
+	padding :0px;
+	margin: 0px;
+}
+
+.caro {
+	margin : 0px;
+	padding-right : 0px;	
+}
+
+.sideColor {
+	color: #979A9C;
+	padding-top: 5px;
+	padding-left: 2px;
+}
+
+.inputSongs {
+	width : 100%;
+}
+
+.imgWidth {
+	width : 100%;
+	height : 200px;
+}
+.songList {
+	border : 1px solid ;
+}
+
+.songName {
+	text-align : center;
+	color : #0B2F9C;
+	font-size : 20px;
+}
+
+.songList:hover {
+	opacity: 0.5;
+	cursor : pointer;
+	cursor: hand;
+}
+
+.audios {
+	width : 100%;
+}
+
+#demo {
+	float:left;
+	text-align: right;
+	margin-left : 0px;
+}
+
+.para {
+	color: #d64838;
+}
+
+#signUpModal {
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+}
+
+#cityDiv p:hover {
+	cursor : pointer;
+	cursor : hand;
+}
+
+.validation {
+	color:red;
+}
+
+#hide {
+	display: none;
+}
+
+#logOut {
+	display : none;
+}
+
+
+
+.widthText {
+	width: 100%;
+	
+	margin:0px;
+}
+
+#hideList1 {
+	display : none;
+}
+
+#hideList2 {
+	display : none;
+}
+
+#userLogin123 {
+	display : none;
+	color : red;
+}
+
+#userLoginName {
+	font-face: "Verdana";
+}
+
+#playSongs {
+	margin-top : 5%;
+	width : 80%;
+}
+
+#feedback {
+	margin-top : 5%;
+	width : 80%;
+}
+
+#home {
+	margin-top : 5%;
+}
+
+.listSongs {
+	color: white;
+	border: 1px solid grey;
+}
+
+.listSongs:hover {
+	background-color : #ff8080;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.songDisplay {
+	margin-top : 5%;
+	color: #ff8080;
+	border: 1px solid grey;
+	font-size: 20px;
+}
+
+.songDisplay1 {
+	margin-top : 5%;
+}
+
+.cur:hover {
+	cursor: pointer;
+	cursor: hand;
+	
+}
+
+#allSongs {
+	display: none;
+}
+
+#home {
+	display: none;
+}
+
+.btnButton {
+	width: 80%;
+}
